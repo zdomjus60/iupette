@@ -64,4 +64,4 @@ This project makes use of the excellent [JSON for Modern C++](https://github.com
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details. Please remember to replace "Your Name" with your actual name in the LICENSE file.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
